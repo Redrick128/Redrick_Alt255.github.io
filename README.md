@@ -1,8 +1,10 @@
 # Redrick_Alt255.github.io
 
-## Welcome to my resume/etc Website
+## Welcome to my Website
 ## Hosted on github
 
-## Some Changes to my game in roblox
-### -- Added a change log to the game
-### -- Recntly just added a new map called Tower
+# MY Game
+## Its a passion project im not done yet im gonna make it till 2035 which is 10 years after 2025
+## when it was made.
+
+## Come check it out at "https://github.com/Redrick128/FireFight"
